@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Abhishek Negi
+# 💫 Hi , I'm Abhishek Negi
 **A passionate Full Stack Developer || React.JS || MongoDB**
 
 Email Me 👉 ✉️ **ajaynegi910@gmail.com** 
